@@ -1,0 +1,27 @@
+#main-header {
+  color: rgb(91, 128, 0);
+}
+header {
+  border-bottom: solid coral;
+  color
+}
+
+#main-header {
+  text-align: center;
+  grid-template-columns: max-content;
+  grid-template-rows: 3px;
+}
+body p {
+  text-align: center;
+  color: rgb(13, 49, 0);
+}
+body {
+  background-color: rgb(248, 245, 245);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
